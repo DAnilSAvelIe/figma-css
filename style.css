@@ -1,23 +1,22 @@
 .conteiner {
-    width: 970px;
-    margin: 0 auto;
-    background: lightblue;
+  width: 970px;
+  margin: 0 auto;
+  background: lightblue;
 }
 
 .header {
-    height: 80px;
+  height: 80px;
 }
-.header>nav>ul>li>{
-    display: inline;
-}
-
-.header>nav>ul>li>{
-    display: inline;
- list-style: none;
+.header > nav > ul > li {
+  display: inline;
 }
 
+.header > nav > ul > li {
+  display: inline;
+  list-style: none;
+}
 
-.header>nav>ul>li>a {
-    padding-left: 20px;
-    padding-right: 20px;
+.header > nav > ul > li > a {
+  padding-left: 20px;
+  padding-right: 20px;
 }
